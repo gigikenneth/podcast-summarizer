@@ -2,6 +2,11 @@
 
 ## [Project for Week 1 of Uplimit's Building AI Products with Open AI](https://uplimit.com/course/building-ai-products-with-openai)
 
+![image](https://github.com/gigikenneth/podcast-summarizer/assets/52600214/cb0e626c-d30c-459e-a054-1378f97143c9)
+
+![image](https://github.com/gigikenneth/podcast-summarizer/assets/52600214/1eb09498-2b90-4305-86f4-190465914166)
+
+
 ### Welcome to the Project! 
 
 In this project, you are going to build an LLM app that summarizes a podcast episode, identifies podcast guests, identifies key highlights, and more! 
@@ -20,4 +25,4 @@ To combat this challenge, we are going to build a product that generates a newsl
 
 - [x] Part 2: Use a simple cloud deployment provider to easily convert the information extraction function to run on demand – This would be the app backend.
 
-- [ ] Part 3: Use ChatGPT from OpenAI as your coding assistant to create and deploy a front-end that allows users to experience the end-to-end functionality.
+- [x] Part 3: Use ChatGPT from OpenAI as your coding assistant to create and deploy a front-end that allows users to experience the end-to-end functionality.
