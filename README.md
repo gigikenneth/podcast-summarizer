@@ -2,9 +2,11 @@
 
 ## [Project for Week 1 of Uplimit's Building AI Products with Open AI](https://uplimit.com/course/building-ai-products-with-openai)
 
-![image](https://github.com/gigikenneth/podcast-summarizer/assets/52600214/cb0e626c-d30c-459e-a054-1378f97143c9)
+![image](https://github.com/gigikenneth/podcast-summarizer/assets/52600214/13f62018-b7df-417c-bae4-ce6a2fd9ce0e)
 
-![image](https://github.com/gigikenneth/podcast-summarizer/assets/52600214/1eb09498-2b90-4305-86f4-190465914166)
+
+![image](https://github.com/gigikenneth/podcast-summarizer/assets/52600214/2ab530fb-5aa4-40eb-bd1d-ce90fe0a6380)
+
 
 
 ### Welcome to the Project! 
